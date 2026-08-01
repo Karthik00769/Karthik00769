@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hi  My name is Karthik Nair<br>Software Engineer | Backend • Cloud • AI-Powered Applications<br>I'm a software engineer passionate about building production-ready software that solves real-world problems through scalable backend systems, cloud-native architecture, and AI-powered applications.<br>Over the past few years, I've built full-stack SaaS platforms from the ground up, working across API design, database architecture, authentication, containerized deployment, and AI integration. My projects focus on solving practical engineering challenges rather than simply demonstrating technologies.<br>I'm particularly interested in backend engineering, cloud computing, distributed systems, and system design, and I'm always looking for opportunities to learn, build, and collaborate on impactful products.<br><br>🌍 I'm based in Chennai<br>✉️ You can contact me at karthiknair1610@gmail.com<br>🧠 I'm currently learning Distributed Systems, Cloud Computing, System Design & AI Engineering<br>👥 I'm looking to collaborate on Backend Engineering, Cloud Infrastructure, AI-powered SaaS & Open Source Projects<br>💬 Ask me about Most of my projects begin as ideas and evolve into scalable platforms through continuous iteration and engineering.
 
+Hi, my name is Karthik Nair  
+**Software Engineer | Backend • Cloud • AI-Powered Applications**
+
+1. I'm a software engineer passionate about building production-ready software that solves real-world problems through scalable backend systems, cloud-native architecture, and AI-powered applications.
+2. Over the past few years, I've built full-stack SaaS platforms from the ground up, working across API design, database architecture, authentication, containerized deployment, and AI integration. My projects focus on solving practical engineering challenges rather than simply demonstrating technologies.
+3. I'm particularly interested in backend engineering, cloud computing, distributed systems, and system design, and I'm always looking for opportunities to learn, build, and collaborate on impactful products.
+
+* 🌍 I'm based in Chennai
+* ✉️ You can contact me at [karthiknair1610@gmail.com](mailto:karthiknair1610@gmail.com)
+* 🧠 I'm currently learning Distributed Systems, Cloud Computing, System Design & AI Engineering
+* 👥 I'm looking to collaborate on Backend Engineering, Cloud Infrastructure, AI-powered SaaS & Open Source Projects
+* 💬 Ask me about: Most of my projects begin as ideas and evolve into scalable platforms through continuous iteration and engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-nair-a751ba2a5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Karthiknair1610) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthiknair1610@gmail.com) 
