@@ -79,6 +79,7 @@ Cloud-native logistics intelligence platform built with multi-tenant architectur
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![RBAC](https://img.shields.io/badge/Authentication_&_RBAC-1E88E5?style=for-the-badge)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 ![File Uploads](https://img.shields.io/badge/File_Upload_Pipelines-4CAF50?style=for-the-badge)
 ![Payment Integration](https://img.shields.io/badge/Payment_Integration-673AB7?style=for-the-badge)
