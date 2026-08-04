@@ -4,7 +4,7 @@
 
 I'm passionate about building production-ready software that solves real-world problems through scalable backend systems, cloud-native architecture, and AI-powered applications.
 
-My experience spans full-stack SaaS development, backend engineering, database architecture, authentication systems, cloud deployment, AI integration, and containerized applications. I enjoy transforming ideas into reliable, scalable products that are built with long-term maintainability in mind.
+My experience spans full-stack SaaS development, backend engineering, database architecture, authentication systems, cloud deployment, AI integration, containerized applications, and applied research. I enjoy transforming ideas into reliable, scalable products that are built with long-term maintainability in mind.
 
 Currently, I'm focused on Backend Engineering, Cloud Computing, Distributed Systems, and System Design while continuously exploring modern software engineering practices.
 
@@ -24,8 +24,22 @@ Currently, I'm focused on Backend Engineering, Cloud Computing, Distributed Syst
 
 - 🥈 **IEEE YESIST12 2026 International Finalist** (Maker Fair Track)
 - 🤖 **USAII® Global AI Hackathon 2026 Finalist** (ProjectForge)
+- 📄 **Conference Publication (ICGMRFT 2026)** — Co-authored and presented *"SmartSpend: A Goal-Based Personal Financial Planning Platform for Awareness-Driven Savings"*, published in the proceedings of the International E-Conference on Global Multidisciplinary Research and Future Technologies (ICGMRFT 2026).
 
 ---
+
+# 📚 Research & Publications
+
+## 📄 SmartSpend: A Goal-Based Personal Financial Planning Platform for Awareness-Driven Savings
+
+Published in the proceedings of the **International E-Conference on Global Multidisciplinary Research and Future Technologies (ICGMRFT 2026)**.
+
+The research introduced SmartSpend as a cloud-native personal finance platform focused on intelligent expense categorization, goal-based financial planning, behavioral analytics, and AI-assisted financial insights. The work explored how modern SaaS architectures and intelligent analytics can help users make more informed financial decisions and develop long-term financial discipline.
+
+Following the publication and presentation, SmartSpend continued to evolve beyond the original research scope through ongoing product development, architectural improvements, and feature enhancements aimed at transforming the concept into a production-ready financial platform.
+
+---
+
 
 # 🚀 Featured Projects
 
