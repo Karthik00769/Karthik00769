@@ -50,8 +50,7 @@ AI-powered personal finance platform combining OCR, AI-generated financial insig
 AI-powered Proof-of-Work & Accountability platform featuring tamper-evident verification, AI-assisted evidence review, and secure audit trails.
 
 ## 🚛 SentinelRoute
-Cloud-native logistics intelligence platform built with multi-tenant architecture, compliance management, fleet operations, and localization support.
-
+Cloud-native logistics intelligence platform built with multi-tenant architecture, secure compliance workflows, fleet operations, real-time collaboration, and localization support.
 ---
 
 # 🌐 Connect With Me
