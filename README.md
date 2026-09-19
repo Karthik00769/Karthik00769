@@ -100,45 +100,91 @@ Decentralized Web3 voting platform leveraging Ethereum smart contracts to provid
 
 ### Languages
 
-JavaScript • TypeScript • Python • SQL • C • C++ • HTML • CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
+</p>
+
+**Also:** SQL
+
+---
 
 ### Frontend
 
-React • Next.js • Tailwind CSS • Firebase Authentication • Android Development • Jetpack Compose
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,kotlin" />
+</p>
+
+**Also:** Firebase Authentication • Jetpack Compose • Android Development
+
+---
 
 ### Backend
 
-Node.js • Express.js • FastAPI • REST APIs • Authentication & RBAC • JWT • NextAuth.js • Socket.IO • File Upload Pipelines • Payment Integrations
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+**Also:** REST APIs • Authentication & RBAC • JWT • NextAuth.js • Socket.IO • File Upload Pipelines • Payment Integrations
+
+---
 
 ### Databases
 
-MongoDB • MySQL • PostgreSQL • Supabase
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+---
 
 ### Cloud & Infrastructure
 
-Docker • Google Cloud Platform (GCP) • AWS S3 • Linux • SSH • Nginx • Vercel • Containerization
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,aws,linux,nginx,vercel" />
+</p>
+
+**Also:** SSH • AWS S3 • Containerization
+
+---
 
 ### AI & Automation
 
-Gemini API • Prompt Engineering • OCR Pipelines • OpenCV • ML Kit • LLM Integration
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+**Also:** Gemini API • Prompt Engineering • OCR Pipelines • ML Kit • LLM Integration
+
+---
 
 ### Web3
 
-Solidity • Smart Contracts • Web3.js • Ethers.js • Hardhat
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+**Also:** Smart Contracts • Web3.js • Ethers.js • Hardhat
+
+---
 
 ### Developer Tools
 
-Git • GitHub • Postman • VS Code • FFmpeg • Figma • Android Studio
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,androidstudio" />
+</p>
+
+**Also:** FFmpeg
+
+---
 
 ### Core Computer Science
 
-* Data Structures & Algorithms
-* Operating Systems
-* Computer Networks
-* Object-Oriented Programming
-* Database Management Systems
-* System Design
-* Software Engineering
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Object-Oriented Programming
+- Database Management Systems
+- System Design
+- Software Engineering
 
 ---
 
