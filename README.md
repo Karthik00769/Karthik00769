@@ -95,26 +95,25 @@ Decentralized Web3 voting platform leveraging Ethereum smart contracts to provid
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:karthiknair1610@gmail.com)
 
 ---
-
 # 💻 Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,sql" />
 </p>
-
-**Also:** SQL
 
 ---
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,kotlin" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,kotlin,android" />
 </p>
 
-**Also:** Firebase Authentication • Jetpack Compose • Android Development
+<p>
+  <code>Firebase Authentication</code> &nbsp; <code>Jetpack Compose</code> &nbsp; <code>Android Development</code>
+</p>
 
 ---
 
@@ -124,7 +123,9 @@ Decentralized Web3 voting platform leveraging Ethereum smart contracts to provid
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-**Also:** REST APIs • Authentication & RBAC • JWT • NextAuth.js • Socket.IO • File Upload Pipelines • Payment Integrations
+<p>
+  <code>REST APIs</code> &nbsp; <code>Authentication & RBAC</code> &nbsp; <code>JWT</code> &nbsp; <code>NextAuth.js</code> &nbsp; <code>Socket.IO</code> &nbsp; <code>File Upload Pipelines</code> &nbsp; <code>Payment Integrations</code>
+</p>
 
 ---
 
@@ -142,7 +143,9 @@ Decentralized Web3 voting platform leveraging Ethereum smart contracts to provid
   <img src="https://skillicons.dev/icons?i=docker,gcp,aws,linux,nginx,vercel" />
 </p>
 
-**Also:** SSH • AWS S3 • Containerization
+<p>
+  <code>SSH</code> &nbsp; <code>AWS S3</code> &nbsp; <code>Containerization</code>
+</p>
 
 ---
 
@@ -152,17 +155,21 @@ Decentralized Web3 voting platform leveraging Ethereum smart contracts to provid
   <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-**Also:** Gemini API • Prompt Engineering • OCR Pipelines • ML Kit • LLM Integration
+<p>
+  <code>Gemini API</code> &nbsp; <code>Prompt Engineering</code> &nbsp; <code>OCR Pipelines</code> &nbsp; <code>ML Kit</code> &nbsp; <code>LLM Integration</code>
+</p>
 
 ---
 
 ### Web3
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat" />
 </p>
 
-**Also:** Smart Contracts • Web3.js • Ethers.js • Hardhat
+<p>
+  <code>Smart Contracts</code> &nbsp; <code>Web3.js</code> &nbsp; <code>Ethers.js</code>
+</p>
 
 ---
 
@@ -172,7 +179,9 @@ Decentralized Web3 voting platform leveraging Ethereum smart contracts to provid
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,androidstudio" />
 </p>
 
-**Also:** FFmpeg
+<p>
+  <code>FFmpeg</code>
+</p>
 
 ---
 
