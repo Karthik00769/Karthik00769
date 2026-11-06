@@ -1,217 +1,121 @@
 # 👋 Hi, I'm Karthik Nair
 
-### Backend • Cloud • AI-Powered Applications
+### Systems • Cloud Infrastructure • AI-Driven Platforms
 
-I'm a Computer Science undergraduate passionate about Backend Engineering, Cloud Computing, Distributed Systems, Full-Stack Development, and AI-Assisted Software Engineering.
+I'm a Computer Science undergraduate focused on **Backend Architecture, Cloud Systems, Distributed Infrastructure, and Applied AI**. 
 
-My experience spans full-stack SaaS development, backend engineering, database architecture, authentication systems, cloud infrastructure, AI integration, containerized applications, Web3 development, and applied research. I enjoy building production-oriented software that remains scalable, maintainable, and useful long after the first release.
+My background spans designing decoupled microservices, database migrations, containerized cloud environments, and fault-tolerant full-stack applications. I focus heavily on post-deployment reliability, concurrency management, and building software that remains deterministic under real production workloads.
 
-I have co-authored a published research paper in financial technology, competed as an international hackathon finalist, and built end-to-end software solutions across web, mobile, cloud-native, and blockchain platforms.
-
----
-
-## 🚀 Current Focus
-
-* 💰 Building **SmartSpend** — AI-Powered Personal Finance Platform
-* ⚙️ Exploring **Backend Engineering, Distributed Systems & Cloud Infrastructure**
-* 🤖 Building AI-assisted software with practical real-world applications
-* ⛓️ Experimenting with Web3 systems and smart contract development
-* 🤝 Open to collaborating on Backend, Cloud, AI, and Full-Stack projects
-* 📫 Reach me at **[karthiknair1610@gmail.com](mailto:karthiknair1610@gmail.com)**
+Co-author of a published research paper in financial technology, two-time international hackathon finalist, and former Backend & DevOps Engineer intern working on production AI SaaS platforms.
 
 ---
 
-# 🏆 Achievements
-
-* 📄 **Conference Publication (ICGMRFT 2026)** — Co-author of *"SmartSpend: A Goal-Based Personal Financial Planning Platform for Awareness-Driven Savings"*
-* 🥈 **IEEE YESIST12 2026 International Finalist** — Maker Fair Track (Selected among 2,000+ global submissions)
-* 🤖 **USAII® Global AI Hackathon 2026 International Finalist** — ProjectForge
-* 🏅 **ALOHA Abacus National Competition 2019** — First Runner-Up
-* 🥇 **ALOHA Abacus State Competition 2019** — State Winner
-* 🥇 **ALOHA Abacus Tiny Tots Competition 2012** — State Winner
-
----
-
-# 📚 Research & Publications
-
-## 📄 SmartSpend: A Goal-Based Personal Financial Planning Platform for Awareness-Driven Savings
-
-Published in the proceedings of the **International E-Conference on Global Multidisciplinary Research and Future Technologies (ICGMRFT 2026).**
-
-The research explored how intelligent financial planning systems can combine goal-based budgeting, behavioral financial awareness, transaction analytics, and AI-assisted insights to improve long-term financial decision making.
-
-Following publication, SmartSpend evolved into a larger full-stack fintech platform featuring OCR-powered transaction processing, multi-currency financial planning, AI-assisted categorization, and real-time financial analytics.
-
----
-
-# 🚀 Featured Projects
-
-## 💰 SmartSpend
-
-AI-powered personal finance platform combining OCR, budgeting, expense tracking, multi-currency planning, and AI-generated financial insights.
-
-**Tech:** Next.js • TypeScript • MySQL (TiDB Cloud) • Gemini API • NextAuth
-
----
-
-## 📌 ProjectForge
-
-AI-powered Proof-of-Work & Accountability platform featuring tamper-evident verification, SHA-256 audit trails, AI-assisted evidence review, and secure accountability workflows.
-
-**Tech:** Next.js • Firebase • MongoDB • Vercel
-
----
-
-## 🚛 SentinelRoute
-
-Operational logistics intelligence platform featuring multi-tenant architecture, real-time collaboration, command-center workflows, event-driven systems, and explainable operational intelligence.
-
-**Tech:** Next.js • TypeScript • MongoDB • Firebase • Socket.IO
-
----
-
-## 🛡️ Trust Buddy
-
-AI-assisted financial security application that evaluates suspicious messages, URLs, QR codes, and payment-related content using deterministic risk scoring and RAG-enhanced analysis.
-
-**Tech:** Kotlin • Jetpack Compose • FastAPI • Gemini • Groq • ML Kit
-
----
-
-## 🗳️ D-VOTE
-
-Decentralized Web3 voting platform leveraging Ethereum smart contracts to provide secure, transparent, and immutable elections.
-
-**Tech:** Solidity • Hardhat • ethers.js • viem • MetaMask • Sepolia
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/karthik-nair-a751ba2a5)
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Karthiknair1610)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:karthiknair1610@gmail.com)
-
----
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,sql,html,css" />
 </p>
 
----
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,kotlin,android" />
-</p>
-
-<p>
-  <code>Firebase Authentication</code> &nbsp; <code>Jetpack Compose</code> &nbsp; <code>Android Development</code>
-</p>
-
----
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-<p>
-  <code>REST APIs</code> &nbsp; <code>Authentication & RBAC</code> &nbsp; <code>JWT</code> &nbsp; <code>NextAuth.js</code> &nbsp; <code>Socket.IO</code> &nbsp; <code>File Upload Pipelines</code> &nbsp; <code>Payment Integrations</code>
-</p>
-
----
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
----
-
-### Cloud & Infrastructure
-
+### Cloud, Infrastructure & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,gcp,aws,linux,nginx,vercel" />
 </p>
-
 <p>
-  <code>SSH</code> &nbsp; <code>AWS S3</code> &nbsp; <code>Containerization</code>
+  <code>Container Lifecycle</code> &nbsp; <code>Nginx Reverse Proxies</code> &nbsp; <code>SSH Remote Management</code> &nbsp; <code>AWS S3</code> &nbsp; <code>GCP Compute</code>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,supabase" />
+</p>
+<p>
+  <code>Socket.IO (Event-Driven State Sync)</code> &nbsp; <code>REST APIs</code> &nbsp; <code>Schema Design & Migrations</code> &nbsp; <code>NextAuth / JWT / RBAC</code> &nbsp; <code>TiDB Cloud</code>
+</p>
+
+### Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,kotlin,android" />
+</p>
+<p>
+  <code>Jetpack Compose</code> &nbsp; <code>Client State Management</code> &nbsp; <code>Responsive Design</code>
+</p>
+
+### AI, Machine Learning & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,git,github,postman,vscode,androidstudio" />
+</p>
+<p>
+  <code>Gemini API</code> &nbsp; <code>Multimodal LLM Integration</code> &nbsp; <code>OCR Pipelines (Tesseract.js / ML Kit)</code> &nbsp; <code>FFmpeg</code>
 </p>
 
 ---
 
-### AI & Automation
+## 🏆 Key Achievements & Honors
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
+- 📄 **Conference Publication (ICGMRFT 2026)** — Co-author of *"SmartSpend: A Goal-Based Personal Financial Planning Platform for Awareness-Driven Savings"* (ISBN: 978-934759744-2, pp. 384–397).
+- 🥈 **IEEE YESIST12 2026 Grand Finale Finalist** — Maker Fair Track. Selected among top global entries to present *SmartSpend* at the Grand Finale held in Indonesia.
+- 🤖 **USAII® Global AI Hackathon 2026 International Finalist** — Undergraduate Track finalist for *ProjectForge* (Recognized by United States Artificial Intelligence Institute, ID: 874161010).
+- 🎓 **Academic Standing** — 9.59 / 10.0 CGPA in B.Tech Computer Science and Engineering at SRM IST.
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 [SmartSpend](https://github.com/Karthik00769) — AI-Powered Personal Finance Platform
+*Research published in ICGMRFT 2026 Proceedings • IEEE YESIST12 Grand Finale Finalist*
+- Engineered a goal-based financial platform using **Next.js, TypeScript, and TiDB Cloud (MySQL)**.
+- Architected a resilient receipt processing engine using the **Gemini API** with an automated fallback to client-side **Tesseract.js OCR** to guarantee zero downtime during network timeouts.
+- Designed relational schemas to track cross-currency multi-account spending, automated reconciliations, and budgeting metrics.
+
+### 🚛 [SentinelRoute](https://github.com/Karthik00769) — Operational Logistics & Dispatch Intelligence
+- Built a multi-tenant operational logistics platform supporting independent administrative, company, and driver tiers with strict tenant isolation.
+- Implemented real-time event-driven architecture using **Socket.IO**, featuring centralized dispatching, entity-specific rooms, and presence tracking across operations dashboards.
+- Integrated deterministic route risk scoring with LLM-generated operational trade-off explanations.
+
+### 📌 [ProjectForge](https://github.com/Karthik00769) — AI-Assisted Accountability Platform
+*USAII® Global AI Hackathon 2026 International Finalist*
+- Architected a full-stack goal verification platform built around tamper-evident proof management.
+- Implemented **SHA-256 file hashing** and append-only audit logs to enforce evidence immutability.
+- Designed role-based access control (RBAC) and human-in-the-loop AI evidence summarization using **Next.js, Firebase Auth, and MongoDB**.
+
+### 🛡️ [Trust Buddy](https://github.com/Karthik00769) — AI Financial Security Mobile Assistant
+- Developed a native Android application using **Kotlin and Jetpack Compose** coupled with a **FastAPI** backend.
+- Designed security-first risk scoring where deterministic security heuristics hold absolute authority, ensuring non-deterministic AI explanations cannot override access decisions.
+- Supported multimodal security analysis across text messages, URLs, and QR codes via on-device ML Kit OCR.
+
+---
+
+## 📚 Research & Publications
+
+### 📄 *"SmartSpend: A Goal-Based Personal Financial Planning Platform for Awareness-Driven Savings"*
+**Proceedings of the International E-Conference on Global Multidisciplinary Research and Future Technologies (ICGMRFT 2026)**  
+*ISBN: 978-934759744-2 | pp. 384–397*
+
+Investigated how automated transaction parsing, multi-tier fallback architectures, and behavioral budgeting loops enhance financial awareness. The prototype was validated as an international finalist at the IEEE YESIST12 2026 Grand Finale in Indonesia.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-nair-a751ba2a5)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Karthiknair1610)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:karthiknair1610@gmail.com)
+
+---
+
+## 📊 Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik00769&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Karthik00769&theme=transparent&hide_border=true" />
 </p>
 
-<p>
-  <code>Gemini API</code> &nbsp; <code>Prompt Engineering</code> &nbsp; <code>OCR Pipelines</code> &nbsp; <code>ML Kit</code> &nbsp; <code>LLM Integration</code>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik00769&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### Web3
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat" />
-</p>
-
-<p>
-  <code>Smart Contracts</code> &nbsp; <code>Web3.js</code> &nbsp; <code>Ethers.js</code>
-</p>
-
----
-
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,androidstudio" />
-</p>
-
-<p>
-  <code>FFmpeg</code>
-</p>
-
----
-
-### Core Computer Science
-
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Object-Oriented Programming
-- Database Management Systems
-- System Design
-- Software Engineering
-
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=Karthik00769\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=Karthik00769\&theme=transparent\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik00769\&layout=compact\&theme=transparent\&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Karthik00769\&theme=github-dark)
-
----
-
-> **"Good software isn't just built. It's continuously refined."**
+> *"Good software isn't just built. It's continuously refined."*
 
